@@ -16,7 +16,7 @@ https://github.com/justinbacle/coop
 A custom made multi-source heating solution (HW + SW) for un unusual place
 
 ### SWCam
-![Maintenance](https://img.shields.io/maintenance/no)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 
 A nice and efficient video camera
 
