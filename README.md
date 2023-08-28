@@ -2,6 +2,12 @@
 
 ## Repos
 
+### MTG Org
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+A MTG collection/deck organizer tool, writtenin Python and Qt6.
+
+https://github.com/justinbacle/mtg-org
+
 ### Coop heating automation
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
