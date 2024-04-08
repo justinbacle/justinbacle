@@ -22,6 +22,13 @@ A nice and efficient video camera
 
 https://github.com/justinbacle/SWCam
 
+### SWCam 2
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+
+A tentative rewrite aimed to be more stable, and faster, using C#
+
+https://github.com/justinbacle/SWCam2
+
 ### Flashy things
 [![JustinBacle's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinbacle&count_private=true&theme=dark)](https://github.com/justinbacle)
 
